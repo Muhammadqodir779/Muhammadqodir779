@@ -5,11 +5,10 @@ Currently learning at **Algoritm LC** 👨‍💻
 
 ---
 
-- 🔭 I’m currently focused on mastering **React** and **JavaScript**
-- 🌱 Learning frontend development one line at a time
-- 💬 Ask me about **JS, React, or UI components**
-- 📍 Based in **Namangan, Uzbekistan**
-- ⚡ Fun fact: I love clean UI and fast typing!
+- 🔭 Currently learning **React** and **JavaScript**
+- 💻 Focused on building clean UIs and interactive components
+- 📍 Namangan, Uzbekistan
+- ⚡ Fun fact: I type faster than I talk 😄
 
 ---
 
@@ -17,17 +16,14 @@ Currently learning at **Algoritm LC** 👨‍💻
 
 - 🧑‍💻 GitHub: [@muhammadqodir779](https://github.com/muhammadqodir779)
 - 📱 Telegram: [@kadirov_779](https://t.me/tasks779)
-- ⌨️ Monkeytype: [My Monkeytype Profile](https://monkeytype.com/profile/kadirov7)
+- ⌨️ Monkeytype: [My Profile](https://monkeytype.com/account)
 - 🏫 Algoritm LC: [Algoritm Learning Center](https://algoritmedu.uz/)
 
 ---
 
-<!-- Optional Spotify card or animation -->
-<!-- 
-<a href="https://github.com/muhammadqodir779">
-  <img src="https://spotify-readme-vodiylik.vercel.app/api?scan=true&theme=light&spin=0" alt="Current Spotify Song">
-</a>
--->
+### ⌨️ My Typing Stats
+
+[![Monkeytype](https://img.shields.io/badge/Monkeytype-Speed:%2060wpm-%23ff69b4?style=for-the-badge)](MONKEYTYPE_LINK_HERE)
 
 ---
 
@@ -39,4 +35,12 @@ Currently learning at **Algoritm LC** 👨‍💻
 
 ---
 
-_Thanks for visiting my profile! 🌟_
+### 📊 GitHub Stats
+
+![Muhammadqodir's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadqodir779&show_icons=true&theme=radical)
+
+### 🔥 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadqodir779&layout=compact&theme=radical)
+
+---
