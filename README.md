@@ -23,7 +23,7 @@ Currently learning at **Algoritm LC** 👨‍💻
 
 ### ⌨️ My Typing Stats
 
-[![Monkeytype](https://img.shields.io/badge/Monkeytype-Speed:%2060wpm-%23ff69b4?style=for-the-badge)](MONKEYTYPE_LINK_HERE)
+[![Monkeytype](https://img.shields.io/badge/Monkeytype-Speed:%2060wpm-%23ff69b4?style=for-the-badge)](https://monkeytype.com/account)
 
 ---
 
