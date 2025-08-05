@@ -1,46 +1,79 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm Muhammadqodir 👋</h1>
 
-I’m **Muhammadqodir Kadirov** from **Namangan, Uzbekistan** 🇺🇿  
-Currently learning at **Algoritm LC** 👨‍💻
-
----
-
-- 🔭 Currently learning **React** and **JavaScript**
-- 💻 Focused on building clean UIs and interactive components
-- 📍 Namangan, Uzbekistan
-- ⚡ Fun fact: I type faster than I talk 😄
+<p align="center">
+  <b>Frontend Developer | JavaScript & React Enthusiast | Fast Typer ⌨️</b><br>
+  From Namangan, Uzbekistan 🇺🇿
+</p>
 
 ---
 
-### 🚀 Connect with me
+## 🧠 About Me
 
-- 🧑‍💻 GitHub: [@muhammadqodir779](https://github.com/muhammadqodir779)
-- 📱 Telegram: [@kadirov_779](https://t.me/tasks779)
-- ⌨️ Monkeytype: [My Profile](https://monkeytype.com/account)
-- 🏫 Algoritm LC: [Algoritm Learning Center](https://algoritmedu.uz/)
-
----
-
-### ⌨️ My Typing Stats
-
-[![Monkeytype](https://img.shields.io/badge/Monkeytype-Speed:%2060wpm-%23ff69b4?style=for-the-badge)](https://monkeytype.com/account)
+- 🎓 Student at **Algoritm Learning Center**
+- 🚀 Learning **React** & **JavaScript**
+- 🎯 Passionate about building clean, responsive UIs
+- ⚡ Fun fact: I type faster than I talk!
 
 ---
 
-### 🛠️ Tech Stack
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+## 🔗 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/muhammadqodir779" target="_blank">🧑‍💻 GitHub</a> ·
+  <a href="https://t.me/tasks779" target="_blank">📱 Telegram</a> ·
+  <a href="https://monkeytype.com/account" target="_blank">⌨️ Monkeytype</a> ·
+  <a href="https://algoritmedu.uz/" target="_blank">🏫 Algoritm LC</a>
+</p>
 
 ---
 
-### 📊 GitHub Stats
+## 🥋 My Codewars Stats
 
-![Muhammadqodir's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadqodir779&show_icons=true&theme=radical)
-
-### 🔥 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadqodir779&layout=compact&theme=radical)
+<p align="center">
+  <a href="https://www.codewars.com/users/Kadirov779">
+    <img src="https://www.codewars.com/users/Kadirov779/badges/large">
+  </a>
+</p>
 
 ---
+
+## ⌨️ Typing Speed
+
+<p align="center">
+  <a href="https://monkeytype.com/account">
+    <img src="https://img.shields.io/badge/Monkeytype-Speed:%2060wpm-%23ff69b4?style=for-the-badge">
+  </a>
+</p>
+
+---
+
+## ⚙️ Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
+  <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" />
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammadqodir779&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+---
+
+## 🔥 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadqodir779&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+<p align="center">
+  <b>“The best way to learn is to build.”</b> 🚀
+</p>
