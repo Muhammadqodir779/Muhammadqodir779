@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Muhammadqodir 👋</h1>
 
 <p align="center">
-  <b>Frontend Developer | JavaScript & React Enthusiast | Fast Typer ⌨️</b><br>
+  <b>FullStack Developer | JavaScript & React Enthusiast | Fast Typer ⌨️ | Node.Js | PostgreSQL | Express | MongoDB | Sequelize</b><br>
   From Namangan, Uzbekistan 🇺🇿
 </p>
 
@@ -9,10 +9,7 @@
 
 ## 🧠 About Me
 
-- 🎓 Student at **Algoritm Learning Center**
-- 🚀 Learning **React** & **JavaScript**
-- 🎯 Passionate about building clean, responsive UIs
-- ⚡ Fun fact: I type faster than I talk!
+- 🚀 Learned **React** & **JavaScript** & **CSS** & **HTML** & **Node.js** & **MongoDB** & **PostgreSQL**
 
 ---
 
@@ -74,6 +71,3 @@
 
 ---
 
-<p align="center">
-  <b>“The best way to learn is to build.”</b> 🚀
-</p>
